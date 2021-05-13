@@ -1,6 +1,6 @@
 # Rock-Paper-Scissor
 
-Here is a simple Rock-Paper-Scissor** game in python.
+Here is a simple **Rock-Paper-Scissor** game in python.
 
 ## Module 
 

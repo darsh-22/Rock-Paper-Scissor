@@ -10,3 +10,16 @@ The **random** module is a **built-in** module to generate the pseudo-random var
 #### Select Random Elements
 
 The ```random.choice()``` method returns a randomly selected element from a non-empty sequence. An empty sequence as argument raises an IndexError. 
+
+## Run code
+
+```
+python main.py
+```
+# Author
+
+Darshil Aslaliya
+
+GitHub : darsh-22
+
+Mail : darshilaslaliya2522@gmail.com
